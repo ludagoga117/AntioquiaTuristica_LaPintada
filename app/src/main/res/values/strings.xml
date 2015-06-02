@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">practica4</string>
+    <string name="antioquia">Antioquia turística</string>
+    <string name="pintada">~ La Pintada ~</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="intro1">On the other side of the Southwest, on the shores of Cauca\'s river, is placed La Pintada, the youngest town of Antioquia, tourist in a 100%.</string>
+    <string name="intro2">Its climate is hot, as any other land close to the Cauca\'s river, and it has some hotels, swimming pools, some night relaxation places. Besides, the practice of ecotourism has increased as well as extreme sports such as: kayaking, rafting and tail biking, and so on.</string>
+	<string name="intro3">This is a land of natural, patrimonial and human wealth. It offers some touristic activities related to the coffee culture. In its farms, traditional meals and good tasting, spontaneous and natural goodness from Antioquia\'s people is reflected.</string>
+	
+	<string name="sAbout">About</string>
+	<string name="sAboutInfo">Programed by:\nLuis David Goyes Garcés.\nluis.goyes@udea.edu.co\nElectronic Engineering Student\nUniversidad de Antioquia</string>
+	<string name="sOk">Ok</string>
+	
+	<string name="sHelp">Help</string>
+	<string name="sHelpText">Press option button to see some interesting information about La Pintada</string>
+	
+	<string name="sHotel">Hotels</string>
+	<string name="introHotel">There is a lot of hotels in La Pintada, among them we can call:</string>
+	
+	<string name="nombreHotel1">Finca Hotel Palmichal</string>
+	<string name="descriHotel1">Comfortable rooms with air conditioning and fan, cable TV  and private bathroom. Restaurant and Bar services. Swimming pool, hammock zone, board games, playpen. Football and Volleyball fields. Private parking.</string>
+	<string name="horariHotel1">Atention time: 24 hours</string>
+	<string name="direccHotel1">Address: 1st km, \'La Pintada – Medellín\' route</string>
+	<string name="TelefoHotel1">Telephone number: (4) 8454306</string>
+	<string name="correoHotel1">E-mail: fincahotelpalmichal@hotmail.com</string>
+	
+	<string name="nombreHotel2">Finca Hotel Villa Camila</string>
+	<string name="descriHotel2">Lodging for 24 hours, in cabins for couples or relatives. We offer perfect room service, bar service, Swimming pool for adults and kids, sauna, jacuzzi, board games, restaurant, night club. Rooms with fan or air conditioning, TV cable, private bathroom. Lodging with food service.</string>
+	<string name="horariHotel2">Atention time: 24 hours</string>
+	<string name="direccHotel2">Address: 200 mts by \'La Pintada - Puente Iglesias\' route</string>
+	<string name="TelefoHotel2">Telephone number: (4) 8453221</string>
+	
+	<string name="nombreHotel3">Hostería Vegas del Cauca</string>
+	<string name="descriHotel3">Rooms and cabins with fan and TV cable. Restaurant service, swimming pool, board games, toboggan</string>
+	<string name="horariHotel3">Atention time: 24 hours</string>
+	<string name="direccHotel3">Address: Av. 30th nu. 28 - 107</string>
+	<string name="TelefoHotel3">Teléfono: (4) 8454017</string>
+	
+	<string name="nombreHotel4">Hostería Los Farallones</string>
+	<string name="descriHotel4">32 rooms and 16 villas for 4 people each, provided with air conditioning, TV set and minibar.</string>
+	<string name="horariHotel4">Atention time: 24 hours</string>
+	<string name="direccHotel4">Address: 76th km by \'La Pintada\' route</string>
+	<string name="TelefoHotel4">Teléfono: (4)8454042 - (4)8454121</string>
+	
+	<string name="sBares">Bars and restaurants</string>
+	<string name="introBares">La pintada, as touristic town, has many bars, restaurants and night clubs, among them:</string>
+	
+	<string name="nombreBar1">Donde Ariel</string>
+	<string name="horariBar1">Atention time: 18:30 - 02:00</string>
+	<string name="direccBar1">Address: 30th Av. nu. 30 - 07</string>
+	<string name="TelefoBar1">Telephone number: 3116302412</string>
+	
+	<string name="nombreBar2">La Cobra</string>
+	<string name="horariBar2">Atention time: 19:00 - 02:00</string>
+	<string name="direccBar2">Address: 30th Av. nu. 28 - 253</string>
+	
+	<string name="nombreBar3">Sol y Luna</string>
+	<string name="horariBar3">Atention time: 19:00 - 02:00</string>
+	<string name="direccBar3">Address: 30th Av. nu. 28 - 50</string>
+	
+	<string name="nombreBar4">El Gran Pez Restaurant</string>
+	<string name="horariBar4">Atention time: 06:00 - 22:00</string>
+	<string name="direccBar4">Address: 30th Av. nu. 28 - 02</string>
+	<string name="TelefoBar4">Telephone number: (4)8454033</string>
+	
+	<string name="nombreBar5">La Palma Restaurant</string>
+	<string name="horariBar5">Atention time: 06:30 - 21:00</string>
+	<string name="direccBar5">Address: 3th km by \'La Pintada - Manizales\' route</string>
+	<string name="TelefoBar5">Telephone number: (4)8454310</string>
+	
+	<string name="sTurista">Touristic places</string>
+	<string name="introTurista">La Pintada has some touristic places, such as:</string>
+	
+	<string name="nombreTurista1">Puente colgante (Puente viejo)</string>
+	<string name="descriTurista1">This bridge was set to connect Antioquia to the southern country. It was declared department monument.</string>
+	
+	<string name="nombreTurista2">Alejandro López railroad station</string>
+	<string name="descriTurista2">Construction made of stone, opened in 1933. Receives its name in honor to the engineer Alejandro López, la Quiebra\'s tunnel designer. It served as connection between Antioquia\'s railroad and Western railroad.</string>
+	
+	<string name="nombreTurista3">Cerro Amarillo</string>
+	<string name="descriTurista3">It has a height of 1,453 meters and a rich pre-Hispanic past that evidences ceramic remaiders and petroglyphs or stone inscriptions. On the mountain, there is a beautiful view of the region, including the majestic headlands and rivers. The sport of paragliding is also practiced. It is the epicenter of ecological walks by any kind of visitor.</string>
+	
+	<string name="nombreTurista4">Santa Cecilia\'s parochial church</string>
+	
+	<string name="sDemo">Demographic Information</string>
+	<string name="infoDemo1">La Pintada is placed over 600 mamsl and it\'s mean temperature is 27ºC.</string>
+	<string name="infoDemo2">Total Population: 6868 hab. (2009)</string>
+	<string name="infoDemo3">- Urban Population: 5924</string>
+	<string name="infoDemo4">- Rural Population: 944</string>
+	<string name="infoDemo5">Literacy: 80.9% (2005)</string>
+	<string name="infoDemo6">- Urban Area: 80.9%</string>
+	<string name="infoDemo7">- Rural Area: 81.1%</string>
+	
+	<string name="sPrincipal">Principal</string>
+</resources>

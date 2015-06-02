@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	tools:context="com.luisgoyes.practica4.fragment_turista"
+	android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	
+	<LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical">
+	
+	    <LinearLayout 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="fill_parent"
+	    	android:orientation="vertical"
+	        >
+	        <TextView
+				style="@style/sTV.titulo"
+				android:text="@string/sTurista"
+				/>
+			<TextView
+				style="@style/sTV.titulo.subtitulo"
+				android:text="@string/pintada"
+				/>
+	    </LinearLayout>
+		
+		<LinearLayout 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="fill_parent"
+	    	android:orientation="vertical"
+	        >
+	        <TextView
+				style="@style/sTV.parrafo"
+		    	android:text="@string/introTurista"
+				/>
+	    </LinearLayout>
+		
+		<LinearLayout 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="fill_parent"
+	    	android:orientation="vertical"
+	        >
+	        <TextView
+				style="@style/sTV.parrafo.subtitulo"
+		    	android:text="@string/nombreTurista1"
+				/>
+	        <TextView
+				style="@style/sTV.parrafo"
+		    	android:text="@string/descriTurista1"
+				/>
+	        <ImageView
+				style="@style/sIV.center_horizontal"
+		    	android:src="@drawable/imtur1"
+				/>
+	    </LinearLayout>
+	    
+	    <LinearLayout 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="fill_parent"
+	    	android:orientation="vertical"
+	        >
+	        <TextView
+				style="@style/sTV.parrafo.subtitulo"
+		    	android:text="@string/nombreTurista2"
+				/>
+	        <TextView
+				style="@style/sTV.parrafo"
+		    	android:text="@string/descriTurista2"
+				/>
+	        <ImageView
+				style="@style/sIV.center_horizontal"
+		    	android:src="@drawable/imtur2"
+				/>
+	    </LinearLayout>
+	    
+	    <LinearLayout 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="fill_parent"
+	    	android:orientation="vertical"
+	        >
+	        <TextView
+				style="@style/sTV.parrafo.subtitulo"
+		    	android:text="@string/nombreTurista3"
+				/>
+	        <TextView
+				style="@style/sTV.parrafo"
+		    	android:text="@string/descriTurista3"
+				/>
+	    </LinearLayout>
+	    
+	    <LinearLayout 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="fill_parent"
+	    	android:orientation="vertical"
+	        >
+	        <TextView
+				style="@style/sTV.parrafo.subtitulo"
+		    	android:text="@string/nombreTurista4"
+				/>
+	        <ImageView
+				style="@style/sIV.center_horizontal"
+		    	android:src="@drawable/imtur4"
+				/>
+	    </LinearLayout>
+	</LinearLayout>
+</ScrollView><!-- From: file:/root/AndroidStudioProjects/practica4/app/src/main/res/layout/fragment_turista.xml -->

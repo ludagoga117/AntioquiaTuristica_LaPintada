@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	tools:context="com.luisgoyes.practica4.fragment_demogra" 
+	android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	
+	<LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical">
+	
+	    <LinearLayout 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="fill_parent"
+	    	android:orientation="vertical"
+	        >
+	        <TextView
+				style="@style/sTV.titulo"
+				android:text="@string/sDemo"
+				/>
+			<TextView
+				style="@style/sTV.titulo.subtitulo"
+				android:text="@string/pintada"
+				/>
+	    </LinearLayout>
+		
+		<LinearLayout 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="fill_parent"
+	    	android:orientation="vertical"
+	        >
+	        <TextView
+				style="@style/sTV.parrafo"
+		    	android:text="@string/infoDemo1"
+				/>
+	        <TextView
+				style="@style/sTV.parrafo"
+		    	android:text="@string/infoDemo2"
+				/>
+	        <TextView
+				style="@style/sTV.parrafo"
+		    	android:text="@string/infoDemo3"
+				/>
+	        <TextView
+				style="@style/sTV.parrafo"
+		    	android:text="@string/infoDemo4"
+				/>
+	        <TextView
+				style="@style/sTV.parrafo"
+		    	android:text="@string/infoDemo5"
+				/>
+	        <TextView
+				style="@style/sTV.parrafo"
+		    	android:text="@string/infoDemo6"
+				/>
+	        <TextView
+				style="@style/sTV.parrafo"
+		    	android:text="@string/infoDemo7"
+				/>
+	    </LinearLayout>
+		
+	</LinearLayout>
+</ScrollView><!-- From: file:/root/AndroidStudioProjects/practica4/app/src/main/res/layout/fragment_demogra.xml -->

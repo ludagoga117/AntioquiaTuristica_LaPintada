@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/root/AndroidStudioProjects/practica4/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <integer-array name="EditColors">
+	    
+	    <item>@color/black</item>   
+		<item>@color/navy</item>   
+		<item>@color/darkblue</item>
+		<item>@color/mediumblue</item>
+		<item>@color/blue</item>
+		<item>@color/midnightblue</item>
+		<item>@color/indigo</item>
+		<item>@color/maroon</item>
+		<item>@color/darkred</item>
+		<item>@color/purple</item>
+		<item>@color/darkgreen</item>
+		<item>@color/darkmagenta</item>
+		<item>@color/darkviolet</item>
+		<item>@color/darkslategray</item>
+		<item>@color/darkslateblue </item>
+		<item>@color/green </item>
+		<item>@color/red </item>
+		<item>@color/firebrick </item>
+		<item>@color/brown </item>
+		<item>@color/saddlebrown </item>
+		<item>@color/crimson </item>
+		<item>@color/mediumvioletred </item>
+		<item>@color/teal </item>
+		<item>@color/blueviolet </item>
+		<item>@color/darkolivegreen </item>
+		<item>@color/forestgreen </item>
+		<item>@color/darkcyan </item>
+		<item>@color/darkorchid </item>
+		<item>@color/sienna </item>
+		<item>@color/deeppink </item>
+		<item>@color/dimgray </item>
+		<item>@color/seagreen </item>
+		<item>@color/fuchsia </item>
+		<item>@color/royalblue </item>
+		<item>@color/slateblue </item>
+		<item>@color/olive </item>
+		<item>@color/orangered </item>
+		<item>@color/steelblue </item>
+		<item>@color/olivedrab </item>
+		<item>@color/dodgerblue </item>
+		<item>@color/mediumslateblue </item>
+		<item>@color/slategray </item>
+		<item>@color/indianred </item>
+		<item>@color/chocolate </item>
+		<item>@color/gray </item>
+		<item>@color/mediumorchid </item>
+		<item>@color/lightslategray </item>
+		<item>@color/lightseagreen </item>
+		<item>@color/mediumpurple </item>
+		<item>@color/darkgoldenrod </item>
+		<item>@color/mediumseagreen </item>
+		<item>@color/cadetblue </item>
+		<item>@color/limegreen </item>
+		<item>@color/deepskyblue </item>
+		<item>@color/tomato </item>
+		<item>@color/cornflowerblue </item>
+		<item>@color/darkturquoise </item>
+		<item>@color/peru </item>
+		<item>@color/palevioletred </item>
+		<item>@color/lime </item>
+		<item>@color/orchid </item>
+		<item>@color/rosybrown </item>
+		<item>@color/hotpink </item>
+		<item>@color/darkorange </item>
+		<item>@color/coral </item>
+		<item>@color/lightcoral </item>
+		<item>@color/salmon </item>
+		<item>@color/springgreen </item>
+		<item>@color/mediumspringgreen </item>
+		<item>@color/goldenrod </item>
+		<item>@color/mediumturquoise </item>
+		<item>@color/darkgray </item>
+		<item>@color/darkseagreen </item>
+		<item>@color/mediumaquamarine </item>
+		<item>@color/darksalmon </item>
+		<item>@color/yellowgreen </item>
+		<item>@color/orange </item>
+		<item>@color/turquoise </item>
+		<item>@color/violet </item>
+		<item>@color/darkkhaki </item>
+		<item>@color/aqua </item>
+		<item>@color/sandybrown </item>
+		<item>@color/lightsalmon </item>
+		<item>@color/tan </item>
+		<item>@color/lawngreen </item>
+		<item>@color/plum </item>
+		<item>@color/chartreuse </item>
+		<item>@color/skyblue </item>
+		<item>@color/burlywood </item>
+		<item>@color/lightskyblue </item>
+		<item>@color/silver </item>
+		<item>@color/lightsteelblue </item>
+		<item>@color/lightgreen </item>
+		<item>@color/thistle </item>
+		<item>@color/gold </item>
+		<item>@color/lightblue </item>
+		<item>@color/lightpink </item>
+		<item>@color/greenyellow </item>
+		<item>@color/palegreen </item>
+		<item>@color/powderblue </item>
+		<item>@color/lightgray </item>
+		<item>@color/aquamarine </item>
+		<item>@color/pink </item>
+		<item>@color/paleturquoise </item>
+		<item>@color/gainsboro </item>
+		<item>@color/khaki </item>
+		<item>@color/wheat </item>
+		<item>@color/peachpuff </item>
+		<item>@color/yellow </item>
+		<item>@color/navajowhite </item>
+		<item>@color/palegoldenrod </item>
+		<item>@color/moccasin </item>
+		<item>@color/lavender </item>
+		<item>@color/bisque </item>
+		<item>@color/mistyrose </item>
+		<item>@color/antiquewhite </item>
+		<item>@color/blanchedalmond </item>
+		<item>@color/papayawhip </item>
+		<item>@color/linen </item>
+		<item>@color/beige </item>
+		<item>@color/whitesmoke </item>
+		<item>@color/lavenderblush </item>
+		<item>@color/lightgoldenrodyellow </item>
+		<item>@color/oldlace </item>
+		<item>@color/lightcyan </item>
+		<item>@color/lemonchiffon </item>
+		<item>@color/aliceblue </item>
+		<item>@color/cornsilk </item>
+		<item>@color/seashell </item>
+		<item>@color/ghostwhite </item>
+		<item>@color/honeydew </item>
+		<item>@color/floralwhite </item>
+		<item>@color/azure </item>
+		<item>@color/mintcream </item>
+		<item>@color/lightyellow </item>
+		<item>@color/snow </item>
+		<item>@color/ivory </item>
+		<item>@color/white </item>
+	</integer-array>
+    <item name="aliceblue" type="color">#f0f8ff</item>
+    <item name="antiquewhite" type="color">#faebd7</item>
+    <item name="aqua" type="color">#00ffff</item>
+    <item name="aquamarine" type="color">#7fffd4</item>
+    <item name="azure" type="color">#f0ffff</item>
+    <item name="beige" type="color">#f5f5dc</item>
+    <item name="bisque" type="color">#ffe4c4</item>
+    <item name="black" type="color">#000000</item>
+    <item name="blanchedalmond" type="color">#ffebcd</item>
+    <item name="blue" type="color">#0000ff</item>
+    <item name="blueviolet" type="color">#8a2be2</item>
+    <item name="brown" type="color">#a52a2a</item>
+    <item name="burlywood" type="color">#deb887</item>
+    <item name="cadetblue" type="color">#5f9ea0</item>
+    <item name="chartreuse" type="color">#7fff00</item>
+    <item name="chocolate" type="color">#d2691e</item>
+    <item name="coral" type="color">#ff7f50</item>
+    <item name="cornflowerblue" type="color">#6495ed</item>
+    <item name="cornsilk" type="color">#fff8dc</item>
+    <item name="crimson" type="color">#dc143c</item>
+    <item name="darkblue" type="color">#00008b</item>
+    <item name="darkcyan" type="color">#008b8b</item>
+    <item name="darkgoldenrod" type="color">#b8860b</item>
+    <item name="darkgray" type="color">#a9a9a9</item>
+    <item name="darkgreen" type="color">#8b008b</item>
+    <item name="darkkhaki" type="color">#bdb76b</item>
+    <item name="darkmagenta" type="color">#9400d3</item>
+    <item name="darkolivegreen" type="color">#556b2f</item>
+    <item name="darkorange" type="color">#ff8c00</item>
+    <item name="darkorchid" type="color">#9932cc</item>
+    <item name="darkred" type="color">#8b0000</item>
+    <item name="darksalmon" type="color">#e9967a</item>
+    <item name="darkseagreen" type="color">#8fbc8f</item>
+    <item name="darkslateblue" type="color">#483d8b</item>
+    <item name="darkslategray" type="color">#2f4f4f</item>
+    <item name="darkturquoise" type="color">#00ced1</item>
+    <item name="darkviolet" type="color">#006400</item>
+    <item name="deeppink" type="color">#ff1493</item>
+    <item name="deepskyblue" type="color">#00bfff</item>
+    <item name="dimgray" type="color">#696969</item>
+    <item name="dodgerblue" type="color">#1e90ff</item>
+    <item name="firebrick" type="color">#b22222</item>
+    <item name="floralwhite" type="color">#fffaf0</item>
+    <item name="forestgreen" type="color">#228b22</item>
+    <item name="fuchsia" type="color">#ff00ff</item>
+    <item name="gainsboro" type="color">#dcdcdc</item>
+    <item name="ghostwhite" type="color">#f8f8ff</item>
+    <item name="gold" type="color">#ffd700</item>
+    <item name="goldenrod" type="color">#daa520</item>
+    <item name="gray" type="color">#808080</item>
+    <item name="green" type="color">#008000</item>
+    <item name="greenyellow" type="color">#adff2f</item>
+    <item name="honeydew" type="color">#f0fff0</item>
+    <item name="hotpink" type="color">#ff69b4</item>
+    <item name="indianred" type="color">#cd5c5c</item>
+    <item name="indigo" type="color">#4b0082</item>
+    <item name="ivory" type="color">#fffff0</item>
+    <item name="khaki" type="color">#f0e68c</item>
+    <item name="lavender" type="color">#e6e6fa</item>
+    <item name="lavenderblush" type="color">#fff0f5</item>
+    <item name="lawngreen" type="color">#7cfc00</item>
+    <item name="lemonchiffon" type="color">#fffacd</item>
+    <item name="lightblue" type="color">#add8e6</item>
+    <item name="lightcoral" type="color">#f08080</item>
+    <item name="lightcyan" type="color">#e0ffff</item>
+    <item name="lightgoldenrodyellow" type="color">#fafad2</item>
+    <item name="lightgray" type="color">#d3d3d3</item>
+    <item name="lightgreen" type="color">#90ee90</item>
+    <item name="lightpink" type="color">#ffb6c1</item>
+    <item name="lightsalmon" type="color">#ffa07a</item>
+    <item name="lightseagreen" type="color">#20b2aa</item>
+    <item name="lightskyblue" type="color">#87cefa</item>
+    <item name="lightslategray" type="color">#778899</item>
+    <item name="lightsteelblue" type="color">#b0c4de</item>
+    <item name="lightyellow" type="color">#ffffe0</item>
+    <item name="lime" type="color">#00ff00</item>
+    <item name="limegreen" type="color">#32cd32</item>
+    <item name="linen" type="color">#faf0e6</item>
+    <item name="maroon" type="color">#800000</item>
+    <item name="mediumaquamarine" type="color">#66cdaa</item>
+    <item name="mediumblue" type="color">#0000cd</item>
+    <item name="mediumorchid" type="color">#ba55d3</item>
+    <item name="mediumpurple" type="color">#9370d8</item>
+    <item name="mediumseagreen" type="color">#3cb371</item>
+    <item name="mediumslateblue" type="color">#7b68ee</item>
+    <item name="mediumspringgreen" type="color">#00fa9a</item>
+    <item name="mediumturquoise" type="color">#48d1cc</item>
+    <item name="mediumvioletred" type="color">#c71585</item>
+    <item name="midnightblue" type="color">#191970</item>
+    <item name="mintcream" type="color">#f5fffa</item>
+    <item name="mistyrose" type="color">#ffe4e1</item>
+    <item name="moccasin" type="color">#ffe4b5</item>
+    <item name="navajowhite" type="color">#ffdead</item>
+    <item name="navy" type="color">	#000080</item>
+    <item name="oldlace" type="color">#fdf5e6</item>
+    <item name="olive" type="color">#808000</item>
+    <item name="olivedrab" type="color">#6b8e23</item>
+    <item name="orange" type="color">#ffa500</item>
+    <item name="orangered" type="color">#ff4500</item>
+    <item name="orchid" type="color">#da70d6</item>
+    <item name="palegoldenrod" type="color">#eee8aa</item>
+    <item name="palegreen" type="color">#98fb98</item>
+    <item name="paleturquoise" type="color">#afeeee</item>
+    <item name="palevioletred" type="color">#d87093</item>
+    <item name="papayawhip" type="color">#ffefd5</item>
+    <item name="peachpuff" type="color">#ffdab9</item>
+    <item name="peru" type="color">#cd853f</item>
+    <item name="pink" type="color">#ffc0cb</item>
+    <item name="plum" type="color">#dda0dd</item>
+    <item name="powderblue" type="color">#b0e0e6</item>
+    <item name="purple" type="color">#800080</item>
+    <item name="red" type="color">#ff0000</item>
+    <item name="rosybrown" type="color">#bc8f8f</item>
+    <item name="royalblue" type="color">#4169e1</item>
+    <item name="saddlebrown" type="color">#8b4513</item>
+    <item name="salmon" type="color">#fa8072</item>
+    <item name="sandybrown" type="color">#f4a460</item>
+    <item name="seagreen" type="color">#2e8b57</item>
+    <item name="seashell" type="color">#fff5ee</item>
+    <item name="sienna" type="color">#a0522d</item>
+    <item name="silver" type="color">#c0c0c0</item>
+    <item name="skyblue" type="color">#87ceeb</item>
+    <item name="slateblue" type="color">#6a5acd</item>
+    <item name="slategray" type="color">#708090</item>
+    <item name="snow" type="color">#fffafa</item>
+    <item name="springgreen" type="color">#00ff7f</item>
+    <item name="steelblue" type="color">#4682b4</item>
+    <item name="tan" type="color">#d2b48c</item>
+    <item name="teal" type="color">#008080</item>
+    <item name="thistle" type="color">#d8bfd8</item>
+    <item name="tomato" type="color">#ff6347</item>
+    <item name="turquoise" type="color">#40e0d0</item>
+    <item name="violet" type="color">#ee82ee</item>
+    <item name="wheat" type="color">#f5deb3</item>
+    <item name="white" type="color">#ffffff</item>
+    <item name="whitesmoke" type="color">#f5f5f5</item>
+    <item name="yellow" type="color">#ffff00</item>
+    <item name="yellowgreen" type="color">#9acd32</item>
+    <!-- From: file:/root/AndroidStudioProjects/practica4/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/root/AndroidStudioProjects/practica4/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="TelefoBar1">Telephone number: 3116302412</string>
+    <string name="TelefoBar4">Telephone number: (4)8454033</string>
+    <string name="TelefoBar5">Telephone number: (4)8454310</string>
+    <string name="TelefoHotel1">Telephone number: (4) 8454306</string>
+    <string name="TelefoHotel2">Telephone number: (4) 8453221</string>
+    <string name="TelefoHotel3">Teléfono: (4) 8454017</string>
+    <string name="TelefoHotel4">Teléfono: (4)8454042 - (4)8454121</string>
+    <string name="action_settings">Settings</string>
+    <string name="antioquia">Antioquia turística</string>
+    <string name="app_name">practica4</string>
+    <string name="correoHotel1">E-mail: fincahotelpalmichal@hotmail.com</string>
+    <string name="descriHotel1">Comfortable rooms with air conditioning and fan, cable TV  and private bathroom. Restaurant and Bar services. Swimming pool, hammock zone, board games, playpen. Football and Volleyball fields. Private parking.</string>
+    <string name="descriHotel2">Lodging for 24 hours, in cabins for couples or relatives. We offer perfect room service, bar service, Swimming pool for adults and kids, sauna, jacuzzi, board games, restaurant, night club. Rooms with fan or air conditioning, TV cable, private bathroom. Lodging with food service.</string>
+    <string name="descriHotel3">Rooms and cabins with fan and TV cable. Restaurant service, swimming pool, board games, toboggan</string>
+    <string name="descriHotel4">32 rooms and 16 villas for 4 people each, provided with air conditioning, TV set and minibar.</string>
+    <string name="descriTurista1">This bridge was set to connect Antioquia to the southern country. It was declared department monument.</string>
+    <string name="descriTurista2">Construction made of stone, opened in 1933. Receives its name in honor to the engineer Alejandro López, la Quiebra\'s tunnel designer. It served as connection between Antioquia\'s railroad and Western railroad.</string>
+    <string name="descriTurista3">It has a height of 1,453 meters and a rich pre-Hispanic past that evidences ceramic remaiders and petroglyphs or stone inscriptions. On the mountain, there is a beautiful view of the region, including the majestic headlands and rivers. The sport of paragliding is also practiced. It is the epicenter of ecological walks by any kind of visitor.</string>
+    <string name="direccBar1">Address: 30th Av. nu. 30 - 07</string>
+    <string name="direccBar2">Address: 30th Av. nu. 28 - 253</string>
+    <string name="direccBar3">Address: 30th Av. nu. 28 - 50</string>
+    <string name="direccBar4">Address: 30th Av. nu. 28 - 02</string>
+    <string name="direccBar5">Address: 3th km by \'La Pintada - Manizales\' route</string>
+    <string name="direccHotel1">Address: 1st km, \'La Pintada – Medellín\' route</string>
+    <string name="direccHotel2">Address: 200 mts by \'La Pintada - Puente Iglesias\' route</string>
+    <string name="direccHotel3">Address: Av. 30th nu. 28 - 107</string>
+    <string name="direccHotel4">Address: 76th km by \'La Pintada\' route</string>
+    <string name="horariBar1">Atention time: 18:30 - 02:00</string>
+    <string name="horariBar2">Atention time: 19:00 - 02:00</string>
+    <string name="horariBar3">Atention time: 19:00 - 02:00</string>
+    <string name="horariBar4">Atention time: 06:00 - 22:00</string>
+    <string name="horariBar5">Atention time: 06:30 - 21:00</string>
+    <string name="horariHotel1">Atention time: 24 hours</string>
+    <string name="horariHotel2">Atention time: 24 hours</string>
+    <string name="horariHotel3">Atention time: 24 hours</string>
+    <string name="horariHotel4">Atention time: 24 hours</string>
+    <string name="infoDemo1">La Pintada is placed over 600 mamsl and it\'s mean temperature is 27ºC.</string>
+    <string name="infoDemo2">Total Population: 6868 hab. (2009)</string>
+    <string name="infoDemo3">- Urban Population: 5924</string>
+    <string name="infoDemo4">- Rural Population: 944</string>
+    <string name="infoDemo5">Literacy: 80.9% (2005)</string>
+    <string name="infoDemo6">- Urban Area: 80.9%</string>
+    <string name="infoDemo7">- Rural Area: 81.1%</string>
+    <string name="intro1">On the other side of the Southwest, on the shores of Cauca\'s river, is placed La Pintada, the youngest town of Antioquia, tourist in a 100%.</string>
+    <string name="intro2">Its climate is hot, as any other land close to the Cauca\'s river, and it has some hotels, swimming pools, some night relaxation places. Besides, the practice of ecotourism has increased as well as extreme sports such as: kayaking, rafting and tail biking, and so on.</string>
+    <string name="intro3">This is a land of natural, patrimonial and human wealth. It offers some touristic activities related to the coffee culture. In its farms, traditional meals and good tasting, spontaneous and natural goodness from Antioquia\'s people is reflected.</string>
+    <string name="introBares">La pintada, as touristic town, has many bars, restaurants and night clubs, among them:</string>
+    <string name="introHotel">There is a lot of hotels in La Pintada, among them we can call:</string>
+    <string name="introTurista">La Pintada has some touristic places, such as:</string>
+    <string name="nombreBar1">Donde Ariel</string>
+    <string name="nombreBar2">La Cobra</string>
+    <string name="nombreBar3">Sol y Luna</string>
+    <string name="nombreBar4">El Gran Pez Restaurant</string>
+    <string name="nombreBar5">La Palma Restaurant</string>
+    <string name="nombreHotel1">Finca Hotel Palmichal</string>
+    <string name="nombreHotel2">Finca Hotel Villa Camila</string>
+    <string name="nombreHotel3">Hostería Vegas del Cauca</string>
+    <string name="nombreHotel4">Hostería Los Farallones</string>
+    <string name="nombreTurista1">Puente colgante (Puente viejo)</string>
+    <string name="nombreTurista2">Alejandro López railroad station</string>
+    <string name="nombreTurista3">Cerro Amarillo</string>
+    <string name="nombreTurista4">Santa Cecilia\'s parochial church</string>
+    <string name="pintada">~ La Pintada ~</string>
+    <string name="sAbout">About</string>
+    <string name="sAboutInfo">Programed by:\nLuis David Goyes Garcés.\nluis.goyes@udea.edu.co\nElectronic Engineering Student\nUniversidad de Antioquia</string>
+    <string name="sBares">Bars and restaurants</string>
+    <string name="sDemo">Demographic Information</string>
+    <string name="sHelp">Help</string>
+    <string name="sHelpText">Press option button to see some interesting information about La Pintada</string>
+    <string name="sHotel">Hotels</string>
+    <string name="sOk">Ok</string>
+    <string name="sPrincipal">Principal</string>
+    <string name="sTurista">Touristic places</string>
+    <!-- From: file:/root/AndroidStudioProjects/practica4/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="sIV">
+	    <item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_marginBottom">10dp</item>
+		<item name="android:layout_marginLeft">10dp</item>
+		<item name="android:layout_marginRight">10dp</item>
+	</style>
+    <style name="sIV.center_horizontal">
+	    <item name="android:layout_gravity">center_horizontal</item>
+	</style>
+    <style name="sTV" parent="@android:style/TextAppearance.Medium">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">30dp</item>
+	</style>
+    <style name="sTV.parrafo">
+		<item name="android:textColor">@color/black</item>
+		<item name="android:textSize">15dp</item>
+		<item name="android:layout_marginBottom">10dp</item>
+		<item name="android:layout_marginLeft">10dp</item>
+		<item name="android:layout_marginRight">10dp</item>
+	</style>
+    <style name="sTV.parrafo.subtitulo">
+	    <item name="android:textStyle">bold</item>
+		<item name="android:textColor">@color/blue</item>
+		<item name="android:textSize">15dp</item>
+		<item name="android:layout_marginBottom">10dp</item>
+		<item name="android:layout_marginLeft">10dp</item>
+		<item name="android:layout_marginRight">10dp</item>
+		<item name="android:textAllCaps">true</item>
+	</style>
+    <style name="sTV.titulo">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textColor">@color/red</item>
+		<item name="android:textSize">40dp</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:gravity">center_horizontal</item>
+		<item name="android:textAllCaps">true</item>
+	</style>
+    <style name="sTV.titulo.subtitulo">
+		<item name="android:textColor">@color/salmon</item>
+		<item name="android:textSize">25dp</item>
+		<item name="android:textStyle">bold|italic</item>
+		<item name="android:layout_marginBottom">10dp</item>
+		<item name="android:textAllCaps">false</item>
+	</style>
+</resources>

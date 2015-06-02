@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/root/AndroidStudioProjects/practica4/app/src/main/res"><file name="imhotel3" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-mdpi/imhotel3.9.png" qualifiers="mdpi" type="drawable"/><file name="imtur1" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-mdpi/imtur1.9.png" qualifiers="mdpi" type="drawable"/><file name="imhotel2" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-mdpi/imhotel2.9.png" qualifiers="mdpi" type="drawable"/><file name="im2" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-mdpi/im2.9.png" qualifiers="mdpi" type="drawable"/><file name="imtur4" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-mdpi/imtur4.9.png" qualifiers="mdpi" type="drawable"/><file name="im1" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-mdpi/im1.9.png" qualifiers="mdpi" type="drawable"/><file name="im3" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-mdpi/im3.9.png" qualifiers="mdpi" type="drawable"/><file name="ic_launcher" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="ic_action_about" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-mdpi/ic_action_about.png" qualifiers="mdpi" type="drawable"/><file name="imtur2" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-mdpi/imtur2.9.png" qualifiers="mdpi" type="drawable"/><file name="ic_action_help" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-mdpi/ic_action_help.png" qualifiers="mdpi" type="drawable"/><file name="imhotel4" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-mdpi/imhotel4.9.png" qualifiers="mdpi" type="drawable"/><file name="imhotel1" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-mdpi/imhotel1.9.png" qualifiers="mdpi" type="drawable"/><file name="main" path="/root/AndroidStudioProjects/practica4/app/src/main/res/menu/main.xml" qualifiers="" type="menu"/><file path="/root/AndroidStudioProjects/practica4/app/src/main/res/values/colors.xml" qualifiers=""><item name="lightsalmon" type="color">#ffa07a</item><item name="darkcyan" type="color">#008b8b</item><item name="olivedrab" type="color">#6b8e23</item><item name="maroon" type="color">#800000</item><item name="lightcyan" type="color">#e0ffff</item><item name="mediumspringgreen" type="color">#00fa9a</item><item name="royalblue" type="color">#4169e1</item><item name="darkmagenta" type="color">#9400d3</item><item name="darkgreen" type="color">#8b008b</item><item name="seagreen" type="color">#2e8b57</item><item name="mintcream" type="color">#f5fffa</item><item name="peru" type="color">#cd853f</item><item name="dimgray" type="color">#696969</item><item name="floralwhite" type="color">#fffaf0</item><item name="orchid" type="color">#da70d6</item><item name="beige" type="color">#f5f5dc</item><item name="lavenderblush" type="color">#fff0f5</item><item name="bisque" type="color">#ffe4c4</item><item name="goldenrod" type="color">#daa520</item><item name="palegreen" type="color">#98fb98</item><item name="mediumturquoise" type="color">#48d1cc</item><item name="green" type="color">#008000</item><item name="darkslategray" type="color">#2f4f4f</item><item name="yellowgreen" type="color">#9acd32</item><item name="lime" type="color">#00ff00</item><item name="chocolate" type="color">#d2691e</item><item name="darkslateblue" type="color">#483d8b</item><item name="oldlace" type="color">#fdf5e6</item><item name="ghostwhite" type="color">#f8f8ff</item><item name="purple" type="color">#800080</item><item name="darkblue" type="color">#00008b</item><item name="burlywood" type="color">#deb887</item><item name="white" type="color">#ffffff</item><item name="mediumvioletred" type="color">#c71585</item><item name="palevioletred" type="color">#d87093</item><item name="lightgray" type="color">#d3d3d3</item><item name="steelblue" type="color">#4682b4</item><item name="darkkhaki" type="color">#bdb76b</item><item name="rosybrown" type="color">#bc8f8f</item><item name="dodgerblue" type="color">#1e90ff</item><item name="midnightblue" type="color">#191970</item><item name="salmon" type="color">#fa8072</item><item name="peachpuff" type="color">#ffdab9</item><item name="lightblue" type="color">#add8e6</item><item name="black" type="color">#000000</item><item name="crimson" type="color">#dc143c</item><item name="darkorange" type="color">#ff8c00</item><item name="saddlebrown" type="color">#8b4513</item><item name="gainsboro" type="color">#dcdcdc</item><item name="cadetblue" type="color">#5f9ea0</item><item name="darkolivegreen" type="color">#556b2f</item><item name="tomato" type="color">#ff6347</item><item name="aquamarine" type="color">#7fffd4</item><item name="darkred" type="color">#8b0000</item><item name="indianred" type="color">#cd5c5c</item><item name="mediumaquamarine" type="color">#66cdaa</item><item name="lightpink" type="color">#ffb6c1</item><item name="forestgreen" type="color">#228b22</item><item name="mediumpurple" type="color">#9370d8</item><item name="wheat" type="color">#f5deb3</item><item name="cornflowerblue" type="color">#6495ed</item><item name="mediumorchid" type="color">#ba55d3</item><item name="darksalmon" type="color">#e9967a</item><item name="thistle" type="color">#d8bfd8</item><item name="ivory" type="color">#fffff0</item><item name="silver" type="color">#c0c0c0</item><item name="slategray" type="color">#708090</item><item name="cornsilk" type="color">#fff8dc</item><integer-array name="EditColors">
+	    
+	    <item>@color/black</item>   
+		<item>@color/navy</item>   
+		<item>@color/darkblue</item>
+		<item>@color/mediumblue</item>
+		<item>@color/blue</item>
+		<item>@color/midnightblue</item>
+		<item>@color/indigo</item>
+		<item>@color/maroon</item>
+		<item>@color/darkred</item>
+		<item>@color/purple</item>
+		<item>@color/darkgreen</item>
+		<item>@color/darkmagenta</item>
+		<item>@color/darkviolet</item>
+		<item>@color/darkslategray</item>
+		<item>@color/darkslateblue </item>
+		<item>@color/green </item>
+		<item>@color/red </item>
+		<item>@color/firebrick </item>
+		<item>@color/brown </item>
+		<item>@color/saddlebrown </item>
+		<item>@color/crimson </item>
+		<item>@color/mediumvioletred </item>
+		<item>@color/teal </item>
+		<item>@color/blueviolet </item>
+		<item>@color/darkolivegreen </item>
+		<item>@color/forestgreen </item>
+		<item>@color/darkcyan </item>
+		<item>@color/darkorchid </item>
+		<item>@color/sienna </item>
+		<item>@color/deeppink </item>
+		<item>@color/dimgray </item>
+		<item>@color/seagreen </item>
+		<item>@color/fuchsia </item>
+		<item>@color/royalblue </item>
+		<item>@color/slateblue </item>
+		<item>@color/olive </item>
+		<item>@color/orangered </item>
+		<item>@color/steelblue </item>
+		<item>@color/olivedrab </item>
+		<item>@color/dodgerblue </item>
+		<item>@color/mediumslateblue </item>
+		<item>@color/slategray </item>
+		<item>@color/indianred </item>
+		<item>@color/chocolate </item>
+		<item>@color/gray </item>
+		<item>@color/mediumorchid </item>
+		<item>@color/lightslategray </item>
+		<item>@color/lightseagreen </item>
+		<item>@color/mediumpurple </item>
+		<item>@color/darkgoldenrod </item>
+		<item>@color/mediumseagreen </item>
+		<item>@color/cadetblue </item>
+		<item>@color/limegreen </item>
+		<item>@color/deepskyblue </item>
+		<item>@color/tomato </item>
+		<item>@color/cornflowerblue </item>
+		<item>@color/darkturquoise </item>
+		<item>@color/peru </item>
+		<item>@color/palevioletred </item>
+		<item>@color/lime </item>
+		<item>@color/orchid </item>
+		<item>@color/rosybrown </item>
+		<item>@color/hotpink </item>
+		<item>@color/darkorange </item>
+		<item>@color/coral </item>
+		<item>@color/lightcoral </item>
+		<item>@color/salmon </item>
+		<item>@color/springgreen </item>
+		<item>@color/mediumspringgreen </item>
+		<item>@color/goldenrod </item>
+		<item>@color/mediumturquoise </item>
+		<item>@color/darkgray </item>
+		<item>@color/darkseagreen </item>
+		<item>@color/mediumaquamarine </item>
+		<item>@color/darksalmon </item>
+		<item>@color/yellowgreen </item>
+		<item>@color/orange </item>
+		<item>@color/turquoise </item>
+		<item>@color/violet </item>
+		<item>@color/darkkhaki </item>
+		<item>@color/aqua </item>
+		<item>@color/sandybrown </item>
+		<item>@color/lightsalmon </item>
+		<item>@color/tan </item>
+		<item>@color/lawngreen </item>
+		<item>@color/plum </item>
+		<item>@color/chartreuse </item>
+		<item>@color/skyblue </item>
+		<item>@color/burlywood </item>
+		<item>@color/lightskyblue </item>
+		<item>@color/silver </item>
+		<item>@color/lightsteelblue </item>
+		<item>@color/lightgreen </item>
+		<item>@color/thistle </item>
+		<item>@color/gold </item>
+		<item>@color/lightblue </item>
+		<item>@color/lightpink </item>
+		<item>@color/greenyellow </item>
+		<item>@color/palegreen </item>
+		<item>@color/powderblue </item>
+		<item>@color/lightgray </item>
+		<item>@color/aquamarine </item>
+		<item>@color/pink </item>
+		<item>@color/paleturquoise </item>
+		<item>@color/gainsboro </item>
+		<item>@color/khaki </item>
+		<item>@color/wheat </item>
+		<item>@color/peachpuff </item>
+		<item>@color/yellow </item>
+		<item>@color/navajowhite </item>
+		<item>@color/palegoldenrod </item>
+		<item>@color/moccasin </item>
+		<item>@color/lavender </item>
+		<item>@color/bisque </item>
+		<item>@color/mistyrose </item>
+		<item>@color/antiquewhite </item>
+		<item>@color/blanchedalmond </item>
+		<item>@color/papayawhip </item>
+		<item>@color/linen </item>
+		<item>@color/beige </item>
+		<item>@color/whitesmoke </item>
+		<item>@color/lavenderblush </item>
+		<item>@color/lightgoldenrodyellow </item>
+		<item>@color/oldlace </item>
+		<item>@color/lightcyan </item>
+		<item>@color/lemonchiffon </item>
+		<item>@color/aliceblue </item>
+		<item>@color/cornsilk </item>
+		<item>@color/seashell </item>
+		<item>@color/ghostwhite </item>
+		<item>@color/honeydew </item>
+		<item>@color/floralwhite </item>
+		<item>@color/azure </item>
+		<item>@color/mintcream </item>
+		<item>@color/lightyellow </item>
+		<item>@color/snow </item>
+		<item>@color/ivory </item>
+		<item>@color/white </item>
+	</integer-array><item name="limegreen" type="color">#32cd32</item><item name="lightgoldenrodyellow" type="color">#fafad2</item><item name="aliceblue" type="color">#f0f8ff</item><item name="powderblue" type="color">#b0e0e6</item><item name="indigo" type="color">#4b0082</item><item name="lightsteelblue" type="color">#b0c4de</item><item name="slateblue" type="color">#6a5acd</item><item name="darkgoldenrod" type="color">#b8860b</item><item name="springgreen" type="color">#00ff7f</item><item name="lightyellow" type="color">#ffffe0</item><item name="seashell" type="color">#fff5ee</item><item name="blueviolet" type="color">#8a2be2</item><item name="orangered" type="color">#ff4500</item><item name="brown" type="color">#a52a2a</item><item name="snow" type="color">#fffafa</item><item name="whitesmoke" type="color">#f5f5f5</item><item name="honeydew" type="color">#f0fff0</item><item name="pink" type="color">#ffc0cb</item><item name="firebrick" type="color">#b22222</item><item name="lightseagreen" type="color">#20b2aa</item><item name="antiquewhite" type="color">#faebd7</item><item name="deepskyblue" type="color">#00bfff</item><item name="coral" type="color">#ff7f50</item><item name="teal" type="color">#008080</item><item name="blue" type="color">#0000ff</item><item name="orange" type="color">#ffa500</item><item name="gold" type="color">#ffd700</item><item name="lawngreen" type="color">#7cfc00</item><item name="gray" type="color">#808080</item><item name="sandybrown" type="color">#f4a460</item><item name="moccasin" type="color">#ffe4b5</item><item name="lavender" type="color">#e6e6fa</item><item name="mediumslateblue" type="color">#7b68ee</item><item name="darkorchid" type="color">#9932cc</item><item name="darkgray" type="color">#a9a9a9</item><item name="hotpink" type="color">#ff69b4</item><item name="lightcoral" type="color">#f08080</item><item name="violet" type="color">#ee82ee</item><item name="palegoldenrod" type="color">#eee8aa</item><item name="khaki" type="color">#f0e68c</item><item name="greenyellow" type="color">#adff2f</item><item name="darkturquoise" type="color">#00ced1</item><item name="papayawhip" type="color">#ffefd5</item><item name="navy" type="color">	#000080</item><item name="darkviolet" type="color">#006400</item><item name="aqua" type="color">#00ffff</item><item name="lightskyblue" type="color">#87cefa</item><item name="lightslategray" type="color">#778899</item><item name="sienna" type="color">#a0522d</item><item name="mistyrose" type="color">#ffe4e1</item><item name="lightgreen" type="color">#90ee90</item><item name="red" type="color">#ff0000</item><item name="blanchedalmond" type="color">#ffebcd</item><item name="navajowhite" type="color">#ffdead</item><item name="linen" type="color">#faf0e6</item><item name="yellow" type="color">#ffff00</item><item name="tan" type="color">#d2b48c</item><item name="fuchsia" type="color">#ff00ff</item><item name="paleturquoise" type="color">#afeeee</item><item name="azure" type="color">#f0ffff</item><item name="mediumblue" type="color">#0000cd</item><item name="darkseagreen" type="color">#8fbc8f</item><item name="plum" type="color">#dda0dd</item><item name="deeppink" type="color">#ff1493</item><item name="mediumseagreen" type="color">#3cb371</item><item name="turquoise" type="color">#40e0d0</item><item name="chartreuse" type="color">#7fff00</item><item name="lemonchiffon" type="color">#fffacd</item><item name="olive" type="color">#808000</item><item name="skyblue" type="color">#87ceeb</item></file><file path="/root/AndroidStudioProjects/practica4/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="/root/AndroidStudioProjects/practica4/app/src/main/res/values/strings.xml" qualifiers=""><string name="direccBar3">Address: 30th Av. nu. 28 - 50</string><string name="direccBar4">Address: 30th Av. nu. 28 - 02</string><string name="direccBar1">Address: 30th Av. nu. 30 - 07</string><string name="direccBar2">Address: 30th Av. nu. 28 - 253</string><string name="introTurista">La Pintada has some touristic places, such as:</string><string name="infoDemo7">- Rural Area: 81.1%</string><string name="infoDemo6">- Urban Area: 80.9%</string><string name="infoDemo5">Literacy: 80.9% (2005)</string><string name="sTurista">Touristic places</string><string name="infoDemo4">- Rural Population: 944</string><string name="intro1">On the other side of the Southwest, on the shores of Cauca\'s river, is placed La Pintada, the youngest town of Antioquia, tourist in a 100%.</string><string name="infoDemo3">- Urban Population: 5924</string><string name="intro2">Its climate is hot, as any other land close to the Cauca\'s river, and it has some hotels, swimming pools, some night relaxation places. Besides, the practice of ecotourism has increased as well as extreme sports such as: kayaking, rafting and tail biking, and so on.</string><string name="infoDemo2">Total Population: 6868 hab. (2009)</string><string name="intro3">This is a land of natural, patrimonial and human wealth. It offers some touristic activities related to the coffee culture. In its farms, traditional meals and good tasting, spontaneous and natural goodness from Antioquia\'s people is reflected.</string><string name="infoDemo1">La Pintada is placed over 600 mamsl and it\'s mean temperature is 27ºC.</string><string name="sAbout">About</string><string name="sAboutInfo">Programed by:\nLuis David Goyes Garcés.\nluis.goyes@udea.edu.co\nElectronic Engineering Student\nUniversidad de Antioquia</string><string name="direccBar5">Address: 3th km by \'La Pintada - Manizales\' route</string><string name="nombreHotel1">Finca Hotel Palmichal</string><string name="introBares">La pintada, as touristic town, has many bars, restaurants and night clubs, among them:</string><string name="nombreHotel2">Finca Hotel Villa Camila</string><string name="nombreHotel3">Hostería Vegas del Cauca</string><string name="sHelp">Help</string><string name="nombreHotel4">Hostería Los Farallones</string><string name="sOk">Ok</string><string name="correoHotel1">E-mail: fincahotelpalmichal@hotmail.com</string><string name="sBares">Bars and restaurants</string><string name="sDemo">Demographic Information</string><string name="sHotel">Hotels</string><string name="horariHotel2">Atention time: 24 hours</string><string name="descriHotel4">32 rooms and 16 villas for 4 people each, provided with air conditioning, TV set and minibar.</string><string name="horariBar3">Atention time: 19:00 - 02:00</string><string name="descriTurista3">It has a height of 1,453 meters and a rich pre-Hispanic past that evidences ceramic remaiders and petroglyphs or stone inscriptions. On the mountain, there is a beautiful view of the region, including the majestic headlands and rivers. The sport of paragliding is also practiced. It is the epicenter of ecological walks by any kind of visitor.</string><string name="horariHotel1">Atention time: 24 hours</string><string name="horariBar2">Atention time: 19:00 - 02:00</string><string name="descriTurista2">Construction made of stone, opened in 1933. Receives its name in honor to the engineer Alejandro López, la Quiebra\'s tunnel designer. It served as connection between Antioquia\'s railroad and Western railroad.</string><string name="antioquia">Antioquia turística</string><string name="pintada">~ La Pintada ~</string><string name="descriHotel2">Lodging for 24 hours, in cabins for couples or relatives. We offer perfect room service, bar service, Swimming pool for adults and kids, sauna, jacuzzi, board games, restaurant, night club. Rooms with fan or air conditioning, TV cable, private bathroom. Lodging with food service.</string><string name="horariHotel4">Atention time: 24 hours</string><string name="horariBar1">Atention time: 18:30 - 02:00</string><string name="descriHotel3">Rooms and cabins with fan and TV cable. Restaurant service, swimming pool, board games, toboggan</string><string name="horariHotel3">Atention time: 24 hours</string><string name="TelefoHotel1">Telephone number: (4) 8454306</string><string name="descriHotel1">Comfortable rooms with air conditioning and fan, cable TV  and private bathroom. Restaurant and Bar services. Swimming pool, hammock zone, board games, playpen. Football and Volleyball fields. Private parking.</string><string name="TelefoHotel2">Telephone number: (4) 8453221</string><string name="horariBar5">Atention time: 06:30 - 21:00</string><string name="horariBar4">Atention time: 06:00 - 22:00</string><string name="direccHotel1">Address: 1st km, \'La Pintada – Medellín\' route</string><string name="direccHotel3">Address: Av. 30th nu. 28 - 107</string><string name="direccHotel2">Address: 200 mts by \'La Pintada - Puente Iglesias\' route</string><string name="direccHotel4">Address: 76th km by \'La Pintada\' route</string><string name="TelefoHotel3">Teléfono: (4) 8454017</string><string name="TelefoHotel4">Teléfono: (4)8454042 - (4)8454121</string><string name="descriTurista1">This bridge was set to connect Antioquia to the southern country. It was declared department monument.</string><string name="TelefoBar1">Telephone number: 3116302412</string><string name="nombreBar4">El Gran Pez Restaurant</string><string name="nombreBar5">La Palma Restaurant</string><string name="action_settings">Settings</string><string name="app_name">practica4</string><string name="introHotel">There is a lot of hotels in La Pintada, among them we can call:</string><string name="nombreTurista2">Alejandro López railroad station</string><string name="nombreBar1">Donde Ariel</string><string name="nombreTurista1">Puente colgante (Puente viejo)</string><string name="nombreBar2">La Cobra</string><string name="nombreTurista4">Santa Cecilia\'s parochial church</string><string name="nombreBar3">Sol y Luna</string><string name="nombreTurista3">Cerro Amarillo</string><string name="sHelpText">Press option button to see some interesting information about La Pintada</string><string name="TelefoBar4">Telephone number: (4)8454033</string><string name="sPrincipal">Principal</string><string name="TelefoBar5">Telephone number: (4)8454310</string></file><file path="/root/AndroidStudioProjects/practica4/app/src/main/res/values/styles.xml" qualifiers=""><style name="sTV.parrafo">
+		<item name="android:textColor">@color/black</item>
+		<item name="android:textSize">15dp</item>
+		<item name="android:layout_marginBottom">10dp</item>
+		<item name="android:layout_marginLeft">10dp</item>
+		<item name="android:layout_marginRight">10dp</item>
+	</style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="sIV.center_horizontal">
+	    <item name="android:layout_gravity">center_horizontal</item>
+	</style><style name="sTV.titulo">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textColor">@color/red</item>
+		<item name="android:textSize">40dp</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:gravity">center_horizontal</item>
+		<item name="android:textAllCaps">true</item>
+	</style><style name="sTV.parrafo.subtitulo">
+	    <item name="android:textStyle">bold</item>
+		<item name="android:textColor">@color/blue</item>
+		<item name="android:textSize">15dp</item>
+		<item name="android:layout_marginBottom">10dp</item>
+		<item name="android:layout_marginLeft">10dp</item>
+		<item name="android:layout_marginRight">10dp</item>
+		<item name="android:textAllCaps">true</item>
+	</style><style name="sIV">
+	    <item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_marginBottom">10dp</item>
+		<item name="android:layout_marginLeft">10dp</item>
+		<item name="android:layout_marginRight">10dp</item>
+	</style><style name="sTV.titulo.subtitulo">
+		<item name="android:textColor">@color/salmon</item>
+		<item name="android:textSize">25dp</item>
+		<item name="android:textStyle">bold|italic</item>
+		<item name="android:layout_marginBottom">10dp</item>
+		<item name="android:textAllCaps">false</item>
+	</style><style name="sTV" parent="@android:style/TextAppearance.Medium">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">30dp</item>
+	</style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file name="fragment_demogra" path="/root/AndroidStudioProjects/practica4/app/src/main/res/layout/fragment_demogra.xml" qualifiers="" type="layout"/><file name="activity_main" path="/root/AndroidStudioProjects/practica4/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="fragment_hoteles" path="/root/AndroidStudioProjects/practica4/app/src/main/res/layout/fragment_hoteles.xml" qualifiers="" type="layout"/><file name="fragment_turista" path="/root/AndroidStudioProjects/practica4/app/src/main/res/layout/fragment_turista.xml" qualifiers="" type="layout"/><file name="fragment_principal" path="/root/AndroidStudioProjects/practica4/app/src/main/res/layout/fragment_principal.xml" qualifiers="" type="layout"/><file name="fragment_bares" path="/root/AndroidStudioProjects/practica4/app/src/main/res/layout/fragment_bares.xml" qualifiers="" type="layout"/><file path="/root/AndroidStudioProjects/practica4/app/src/main/res/values-es/strings.xml" qualifiers="es"><string name="TelefoHotel4">Teléfono: (4)8454042 - (4)8454121</string><string name="TelefoHotel1">Teléfono: (4) 8454306</string><string name="direccHotel3">Dirección: Av. 30 No. 28 - 107</string><string name="direccHotel4">Dirección: km 76 vía La Pintada</string><string name="TelefoHotel3">Teléfono: (4) 8454017</string><string name="TelefoHotel2">Teléfono: (4) 8453221</string><string name="horariHotel2">Horario de atención: Las 24 horas</string><string name="horariHotel3">Horario de atención: Las 24 horas</string><string name="direccHotel1">Dirección: km 1 vía La Pintada – Medellín</string><string name="horariHotel4">Horario de atención: Las 24 horas</string><string name="direccHotel2">Dirección: 200 mts vía La Pintada - Puente Iglesias</string><string name="nombreTurista2">Estación del Ferrocarril Alejandro López</string><string name="nombreTurista3">Cerro Amarillo</string><string name="descriHotel2">Alojamiento las 24 horas, en cabañas para dos personas o familiares. Contamos con servicio a la habitación, bar en la zona humeda. Servicio de piscina para adultos y niños, sauna, jacuzzi, juegos de mesa, restaurante, discoteca. Habitaciones con ventilador o aire acondicionado, TV cable, baño privado. Hospedaje con alimentación, día de sol con almuerzo y refrigerio</string><string name="nombreTurista4">Iglesia parroquial Santa Cecilia</string><string name="descriHotel1">Confortables habitaciones con aire acondicionado y ventilador, cable y baño privado. Servicio de restaurante y bar. Piscina, zona de hamacas, juegos de mesa, parque infantil. Cancha de fútbol y vóleibol. Parqueadero privado.</string><string name="horariHotel1">Horario de atención: Las 24 horas</string><string name="descriHotel4">Cuenta con una infraestructura de 32 habitaciones y 16 villas para 4 personas cada una, dotadas con aire acondicionado, televisor y minibar.</string><string name="descriHotel3">Habitaciones y cabañas con ventilador y TV cable. Servicio de restaurante, Piscina, Juegos de mesa, Tobogán</string><string name="intro2">De clima cálido, como todas las tierras aledañas al Cauca, posee hoteles, hosterías, piscinas, sitios de esparcimiento nocturno y ha tomado auge la práctica de ecoturismo, deportes extremos y de aventura como el kayak, rafting y ciclomontañismo, entre otros.</string><string name="intro1">En la llamada otra esquina del Suroeste, a orillas del río Cauca se posa La Pintada, el municipio más joven de Antioquia, turístico en un 100%, desde los años en que oficiaba como corregimiento de Santa Bárbara.</string><string name="sOk">Entendido</string><string name="sDemo">Información demográfica</string><string name="infoDemo7">- Zona rural: 81.1%</string><string name="infoDemo6">- Zona urbana: 80.9%</string><string name="intro3">Esta es una tierra de riqueza natural, patrimonial y humana. Ofrece una actividad turística ligada con la cultura del café. En sus fincas, en la cocina tradicional y en la buena cata, se refleja la hospitalidad expontánea y natural del antioqueño.</string><string name="nombreTurista1">Puente colgante (Puente viejo)</string><string name="sPrincipal">Principal</string><string name="nombreHotel1">Finca Hotel Palmichal</string><string name="nombreHotel4">Hostería Los Farallones</string><string name="nombreHotel2">Finca Hotel Villa Camila</string><string name="nombreHotel3">Hostería Vegas del Cauca</string><string name="sBares">Bares y Estaderos</string><string name="sAbout">Acerca de</string><string name="sHelpText">Presione el botón de opciones para desplegar información de interés acerca de este municipio</string><string name="nombreBar1">Donde Ariel</string><string name="nombreBar2">La Cobra</string><string name="nombreBar3">Sol y Luna</string><string name="nombreBar4">Restaurante El Gran Pez</string><string name="sHotel">Hoteles</string><string name="introHotel">La pintada posee una gran cantidad de hoteles, entre ellos podemos encontrar:</string><string name="introTurista">El municipio de La Pintada posee sitios turísticos como:</string><string name="antioquia">Antioquia turística</string><string name="TelefoBar5">Teléfono: (4)8454310</string><string name="TelefoBar4">Teléfono: (4)8454033</string><string name="TelefoBar1">Teléfono: 3116302412</string><string name="nombreBar5">Restaurante La Palma</string><string name="pintada">~ La Pintada ~</string><string name="correoHotel1">Correo-e: fincahotelpalmichal@hotmail.com</string><string name="infoDemo3">- Población Urbana: 5924</string><string name="infoDemo2">Población total: 6868 hab. (2009)</string><string name="infoDemo5">Alfabetismo: 80.9% (2005)</string><string name="sHelp">Ayuda</string><string name="infoDemo4">- Población Rural: 944</string><string name="sAboutInfo">Programado por:\nLuis David Goyes Garcés.\nluis.goyes@udea.edu.co\nEstudiante de Ingeniería Electrónica\nUniversidad de Antioquia</string><string name="infoDemo1">La Pintada se encuentra ubicada a una altitud de 600 msnm y su temperatura promedio es de 27ºC.</string><string name="direccBar4">Dirección: Av. 30 no. 28 - 02</string><string name="direccBar5">Dirección: km 3 vía La Pintada - Manizales</string><string name="direccBar2">Dirección: Av. 30 no. 28 - 253</string><string name="direccBar3">Dirección: Av. 30 no. 28 - 50</string><string name="direccBar1">Dirección: Av. 30 no. 30 - 07</string><string name="action_settings">Configuración</string><string name="descriTurista1">Puente instalado para conectar el departamento Antioqueño con el sur del país. Fue declarado monumento departamental.</string><string name="sTurista">Sitios turísticos</string><string name="descriTurista2">Construcción en piedra inaugurada en el año 1933, recibe su nombre en honor al ingeniero Alejandro López, diseñador del túnel de la Quiebra. Servía de conexión entre el Ferrocarril de Antioquia y el Ferrocarril de Occidente.</string><string name="horariBar4">Horario de atención: 06:00 - 22:00</string><string name="descriTurista3">Con una altura de 1.453 metros y un rico pasado prehispánico que evidencia restos cerámicos y petroglíficos o inscripciones sobre piedra. Desde allí se observa una hermosa panorámica de la región, abarcando los farallones y sus ríos majestuosos. También se practica el deporte del parapente. Es epicentro de caminatas ecológicas por parte de propios y extraños.</string><string name="horariBar3">Horario de atención: 19:00 - 02:00</string><string name="app_name">practica4</string><string name="horariBar2">Horario de atención: 19:00 - 02:00</string><string name="horariBar1">Horario de atención: 18:30 - 02:00</string><string name="introBares">La pintada, como municipio 100% turístico, tiene una gran cantidad de bares, estaderos y discotecas, entre los que cabe mencionar:</string><string name="horariBar5">Horario de atención: 06:30 - 21:00</string></file><file name="imhotel3" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-hdpi/imhotel3.9.png" qualifiers="hdpi" type="drawable"/><file name="imtur1" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-hdpi/imtur1.9.png" qualifiers="hdpi" type="drawable"/><file name="imhotel2" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-hdpi/imhotel2.9.png" qualifiers="hdpi" type="drawable"/><file name="im2" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-hdpi/im2.9.png" qualifiers="hdpi" type="drawable"/><file name="imtur4" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-hdpi/imtur4.9.png" qualifiers="hdpi" type="drawable"/><file name="im1" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-hdpi/im1.9.png" qualifiers="hdpi" type="drawable"/><file name="im3" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-hdpi/im3.9.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="ic_action_about" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-hdpi/ic_action_about.png" qualifiers="hdpi" type="drawable"/><file name="imtur2" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-hdpi/imtur2.9.png" qualifiers="hdpi" type="drawable"/><file name="ic_action_help" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-hdpi/ic_action_help.png" qualifiers="hdpi" type="drawable"/><file name="imhotel4" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-hdpi/imhotel4.9.png" qualifiers="hdpi" type="drawable"/><file name="imhotel1" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-hdpi/imhotel1.9.png" qualifiers="hdpi" type="drawable"/><file path="/root/AndroidStudioProjects/practica4/app/src/main/res/values-w820dp/dimens.xml" qualifiers="w820dp"><dimen name="activity_horizontal_margin">64dp</dimen></file><file path="/root/AndroidStudioProjects/practica4/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file name="imhotel3" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-xhdpi/imhotel3.9.png" qualifiers="xhdpi" type="drawable"/><file name="imtur1" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-xhdpi/imtur1.9.png" qualifiers="xhdpi" type="drawable"/><file name="imhotel2" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-xhdpi/imhotel2.9.png" qualifiers="xhdpi" type="drawable"/><file name="im2" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-xhdpi/im2.9.png" qualifiers="xhdpi" type="drawable"/><file name="imtur4" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-xhdpi/imtur4.9.png" qualifiers="xhdpi" type="drawable"/><file name="im1" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-xhdpi/im1.9.png" qualifiers="xhdpi" type="drawable"/><file name="im3" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-xhdpi/im3.9.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="ic_action_about" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-xhdpi/ic_action_about.png" qualifiers="xhdpi" type="drawable"/><file name="imtur2" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-xhdpi/imtur2.9.png" qualifiers="xhdpi" type="drawable"/><file name="ic_action_help" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-xhdpi/ic_action_help.png" qualifiers="xhdpi" type="drawable"/><file name="imhotel4" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-xhdpi/imhotel4.9.png" qualifiers="xhdpi" type="drawable"/><file name="imhotel1" path="/root/AndroidStudioProjects/practica4/app/src/main/res/drawable-xhdpi/imhotel1.9.png" qualifiers="xhdpi" type="drawable"/><file path="/root/AndroidStudioProjects/practica4/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file></source><source path="/root/AndroidStudioProjects/practica4/app/build/generated/res/rs/debug"/><source path="/root/AndroidStudioProjects/practica4/app/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/root/AndroidStudioProjects/practica4/app/src/debug/res"/></dataSet><mergedItems/></merger>
