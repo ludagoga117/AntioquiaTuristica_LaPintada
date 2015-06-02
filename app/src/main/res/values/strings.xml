@@ -95,4 +95,9 @@
 	<string name="infoDemo7">- Rural Area: 81.1%</string>
 	
 	<string name="sPrincipal">Principal</string>
+
+	<string name="sMapa">Location</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

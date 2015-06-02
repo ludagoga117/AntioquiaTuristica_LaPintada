@@ -4,17 +4,17 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.FragmentTransaction;
 import android.content.DialogInterface;
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends Activity {
-	private final boolean[] opcionMenuHoteles = {true, false, false, false, false};
-	private final boolean[] opcionMenuBares = {false, true, false, false, false};
-	private final boolean[] opcionMenuTurista = {false, false, true, false, false};
-	private final boolean[] opcionMenuDemogra = {false, false, false, true, false};
-	private final boolean[] opcionMenuPrincipal = {false, false, false, false, true};
+	private final boolean[] opcionMenuHoteles = {true, false, false, false, false, false};
+	private final boolean[] opcionMenuBares = {false, true, false, false, false, false};
+	private final boolean[] opcionMenuTurista = {false, false, true, false, false, false};
+	private final boolean[] opcionMenuDemogra = {false, false, false, true, false, false};
+	private final boolean[] opcionMenuPrincipal = {false, false, false, false, false, true};
+	private final boolean[] opcionMenuMapa = {false, false, false, false, true, false};
 	private boolean[] opcionMenu = opcionMenuPrincipal;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -46,6 +46,9 @@ public class MainActivity extends Activity {
 			case R.id.iDemografica:
 				DemograficaMenuItem();
 				break;
+			case R.id.iMapa:
+				MapaMenuItem();
+				break;
 			case R.id.iPrincipal:
 				PrincipalMenuItem();
 				break;
@@ -64,7 +67,7 @@ public class MainActivity extends Activity {
 	
 	@Override
 	public boolean onPrepareOptionsMenu (Menu menu) {
-		for(int i = 0; i<= 4; i++){
+		for(int i = 0; i<= 5; i++){
 			menu.getItem(i).setEnabled(!opcionMenu[i]);
 		}
 	    return true;
@@ -93,11 +96,17 @@ public class MainActivity extends Activity {
 		F_demogra f5 = new F_demogra();
 		getFragmentManager().beginTransaction().replace(android.R.id.content, f5).commit();
 	}
-	
+
+	private void MapaMenuItem(){
+		opcionMenu = opcionMenuMapa;
+		F_mapa f6 = new F_mapa();
+		getFragmentManager().beginTransaction().replace(android.R.id.content, f6).commit();
+	}
+
 	private void PrincipalMenuItem(){
 		opcionMenu = opcionMenuPrincipal;
-		F_index f6 = new F_index();
-		getFragmentManager().beginTransaction().replace(android.R.id.content, f6).commit();
+		F_index f7 = new F_index();
+		getFragmentManager().beginTransaction().replace(android.R.id.content, f7).commit();
 	}
 	
 	private void AboutMenuItem(){
