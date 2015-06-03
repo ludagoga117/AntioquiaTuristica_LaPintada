@@ -5,10 +5,12 @@ import android.app.AlertDialog;
 import android.app.FragmentTransaction;
 import android.content.DialogInterface;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
+import android.support.v4.app.FragmentManager;
 import android.view.Menu;
 import android.view.MenuItem;
 
-public class MainActivity extends Activity {
+public class MainActivity extends FragmentActivity {
 	private final boolean[] opcionMenuHoteles = {true, false, false, false, false, false};
 	private final boolean[] opcionMenuBares = {false, true, false, false, false, false};
 	private final boolean[] opcionMenuTurista = {false, false, true, false, false, false};
@@ -16,6 +18,9 @@ public class MainActivity extends Activity {
 	private final boolean[] opcionMenuPrincipal = {false, false, false, false, false, true};
 	private final boolean[] opcionMenuMapa = {false, false, false, false, true, false};
 	private boolean[] opcionMenu = opcionMenuPrincipal;
+
+	public static FragmentManager fragmentManager;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -23,6 +28,7 @@ public class MainActivity extends Activity {
 		FragmentTransaction fragmentTransaction = getFragmentManager().beginTransaction();
 		F_index f1 = new F_index();
 		fragmentTransaction.add(android.R.id.content, f1).commit();
+		fragmentManager = getSupportFragmentManager();
 	}
 
 	@Override
