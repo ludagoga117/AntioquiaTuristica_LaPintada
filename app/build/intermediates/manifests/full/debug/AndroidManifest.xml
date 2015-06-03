@@ -19,15 +19,6 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
-    <!-- Creating Permission to receive Google Maps -->
-    <permission
-        android:name="com.arshad.map.permission.MAPS_RECEIVE"
-        android:protectionLevel="signature" />
-
-    <!-- Permission to receive Google Maps -->
-    <uses-permission android:name="com.arshad.map.permission.MAPS_RECEIVE" />
-
-    <!-- Maps API needs OpenGL ES 2.0. -->
     <uses-feature
         android:glEsVersion="0x00020000"
         android:required="true" />
