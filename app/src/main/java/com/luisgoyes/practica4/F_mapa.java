@@ -33,8 +33,8 @@ public class F_mapa extends Fragment {
         }
         view = (RelativeLayout) inflater.inflate(R.layout.fragment_mapa, container, false);
         // Passing harcoded values for latitude & longitude. Please change as per your need. This is just used to drop a Marker on the Map
-        latitude = 5.75;
-        longitude = -75.600000000000020000;
+        latitude = 5.747590;
+        longitude = -75.606780;
 
         setUpMapIfNeeded(); // For setting up the MapFragment
 
