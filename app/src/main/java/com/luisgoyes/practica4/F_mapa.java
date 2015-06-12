@@ -13,6 +13,7 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.MapFragment;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 public class F_mapa extends Fragment {
@@ -24,6 +25,7 @@ public class F_mapa extends Fragment {
      */
 
     private static GoogleMap mMap;
+    private static Marker m;
     private static Double latitude, longitude;
 
     @Override
@@ -64,7 +66,7 @@ public class F_mapa extends Fragment {
         // For showing a move to my loction button
         mMap.setMyLocationEnabled(true);
         // For dropping a marker at a point on the Map
-        mMap.addMarker(new MarkerOptions().position(new LatLng(latitude, longitude)).title("La Pintada").snippet("Antioquia Turística"));
+        m = mMap.addMarker(new MarkerOptions().position(new LatLng(latitude, longitude)).title("La Pintada").snippet("Antioquia Turística"));
         // For zooming automatically to the Dropped PIN Location
         mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(latitude, longitude), 12.0f));
     }
@@ -85,12 +87,27 @@ public class F_mapa extends Fragment {
         }
     }
 
+    @Override
+    public void onPause() {
+        if(m!=null){
+            m.remove();
+        }
+        if (mMap != null) {
+            MainActivity.fragmentManager.beginTransaction().remove(MainActivity.fragmentManager.findFragmentById(R.id.location_map)).commit();
+            mMap = null;
+        }
+        super.onDestroyView();
+    }
+
     /**** The mapfragment's id must be removed from the FragmentManager
      **** or else if the same it is passed on the next time then
      **** app will crash ****/
     @Override
     public void onDestroyView() {
         super.onDestroyView();
+        if(m!=null){
+            m.remove();
+        }
         if (mMap != null) {
             MainActivity.fragmentManager.beginTransaction().remove(MainActivity.fragmentManager.findFragmentById(R.id.location_map)).commit();
             mMap = null;

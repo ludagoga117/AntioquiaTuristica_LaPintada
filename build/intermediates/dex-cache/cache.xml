@@ -2,186 +2,186 @@
 <items version="2" >
 
     <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-c5e3ed568cb113042654e6ced198a4c8e89437da.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-07e323190f0c0054fcc5d506a1fe3dd0d0864928.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-39680505e5450b8add3256eb78f8c86378a95302.jar" />
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-d4929a384fa6126b41f271b02b584bc6233d14d3.jar" />
     </item>
     <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-2569d663a3b96d259088d50f78d739df3164abaa.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-a2c4231f3de5a9d1244985fa09d40383c17daeef.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-33eaa3c33cf08a08d1c9180e92c3ca9940df348f.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-8c07afcb09d83a65d6ea7c32221a1d16d4a027c8.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-f9ef51f90cc3ed57ad5ab676ae6e57521adf4d79.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-d0341db5a906641c744c556f79b878fa588423f6.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-1967a16c589afdade608ea0f142bfd1e8ed4043b.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-56bb363084433dfd96365e79b58ec5fc78fa0be1.jar" />
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-f979a73a9722c8fb5acf24f76f1022a7444e5fb1.jar" />
     </item>
     <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-603b1230d99c04a0142bc0b2a5a1cf980b153c6d.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-5d9496196a36c311e9e40524531c396d13472a92.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-309c4a4af92e23112bb3092d55864c2fbb10c089.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-ec273c6dc0da80b2e62a72146a7c3c9dca5a7c22.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-353d187c1b17456b6f52e893c55df83a87eeab55.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-06d2b089168528892b122f411bd297d94c51b4b8.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-7ccecb474ec384fe065d04719a404978671e8068.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-1467ad92c16675597ba5a3a0f63d901038e00708.jar" />
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-fa230a59c5d24ac23eda4ae3e1431c8c8456f38d.jar" />
     </item>
     <item
         jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-5c3eb70b57859c75c7a27e70cee70709b060b059.jar" />
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-5c3eb70b57859c75c7a27e70cee70709b060b059.jar" />
     </item>
     <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-36edd1567943baf472b89465b591619c78ace616.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-55b83f280541a3a7ac51c43653923e6af252ca8f.jar" />
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-2516ceeb2b1dd21130d97fbce35cead6b8d9f9fc.jar" />
     </item>
     <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-89f40ebae9381a5e57c5dfbf93121c33f8e18405.jar" />
-    </item>
-    <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-f70ee716e43647b87f420d32f74ea55c800cbf1c.jar" />
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-9537ef9f999e413e01c78ba0899c496c379e9be4.jar" />
     </item>
     <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-ebdf4698532b8480a063a02802048509becadeda.jar" />
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-80ad9e245d8e504a7a919fde406b948c6ce876ec.jar" />
     </item>
     <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-70bb7be45d114058fbecc8ba9c72a80bf7d7a329.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-fd12242410a0076c6827f22986daef8a192036d5.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-14defd460de03abfd92f86758ec902018369161e.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-e2000c7be09525315265680ac8213232247abd70.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-84f7950f89319c7a72865c15ac00ed40032814bd.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-d66e2043517d57432af8a4f50bab8ec20822c8cb.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-08ad409a3fa3e636240d5bb8570bffcaf924fbb7.jar" />
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-7f8a94207f196d5394147352fe66ca1be46132f4.jar" />
     </item>
     <item
-        jar="/root/AndroidStudioProjects/practica4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-302b8e877dbea7d71467fcf8371ae198b8d25bdf.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-be471419c6b219488e744f6eb67fef4ce193804b.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-1e4e0a6f0141e14e910c7bff4439bdba720f4e9b.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-6aca0674001520cc216d30958febade0c85ee333.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-2e9711a6e26b81733cb178b2f240ab58e7a20dfc.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-c777f58a76b2606bbe6ce6f64b36bd36805ad990.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-51246e044928655d19897ed226a2a31116d1976f.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="/root/AndroidStudioProjects/practica4/app/build/intermediates/pre-dexed/debug/classes-581f20cc4514e5ade31b6d49e06a6f2b2590ab73.jar" />
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-4eb17c8b22fcbd1c7ab47bab5b06771ddccd97aa.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-bee460fed8ffb22f22d9c2c58a58854679f78cfa.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-2edd87af2b000afad9e1976f24434a161037f537.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/root/AndroidStudioProjects/AntioquiaTuristica_LaPintada/app/build/intermediates/pre-dexed/debug/classes-a9d6fc98f0a4ef0fec5e15340b3118e8b3f860ce.jar" />
     </item>
 
 </items>
